@@ -32,4 +32,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Attributions
 
-Certificate template in this project is designed by [Freepik](http://www.freepik.com).
+Certificate template in this project is designed by [Dagangduit](http://www.dagangduit.com).
